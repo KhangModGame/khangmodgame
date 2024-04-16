@@ -612,7 +612,7 @@ MainFrame.Parent = MainGui
 UICorner.CornerRadius = UDim.new(0, 5)
 UICorner.Parent = MainFrame
 
-Background.Image = "rbxassetid://17170524000"
+Background.Image = "rbxassetid://17170906277"
 Background.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Background.BackgroundTransparency = 0.9990000128746033
 Background.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -624,7 +624,7 @@ Background.Parent = MainFrame
 UICorner1.CornerRadius = UDim.new(0, 5)
 UICorner1.Parent = Background
 
-Character.Image = "rbxassetid://"
+Character.Image = "rbxassetid://17170975010"
 Character.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Character.BackgroundTransparency = 0.9990000128746033
 Character.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -661,7 +661,7 @@ TextLabel1.Position = UDim2.new(0, 5, 0, 0)
 TextLabel1.Size = UDim2.new(1, 0, 1, 0)
 TextLabel1.Parent = TextLabel
 
-CharacterIcon.Image = "rbxassetid://16968165624"
+CharacterIcon.Image = "rbxassetid://17170975010"
 CharacterIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 CharacterIcon.BackgroundTransparency = 0.9990000128746033
 CharacterIcon.BorderColor3 = Color3.fromRGB(0, 0, 0)
