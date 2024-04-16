@@ -624,7 +624,7 @@ Background.Parent = MainFrame
 UICorner1.CornerRadius = UDim.new(0, 5)
 UICorner1.Parent = Background
 
-Character.Image = "rbxassetid://17170975010"
+Character.Image = "rbxassetid://17171117085"
 Character.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Character.BackgroundTransparency = 0.9990000128746033
 Character.BorderColor3 = Color3.fromRGB(0, 0, 0)
