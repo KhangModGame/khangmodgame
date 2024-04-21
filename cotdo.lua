@@ -45,7 +45,7 @@ do
         Circle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
         Circle.BackgroundTransparency = 1.000
         Circle.ZIndex = 10
-        Circle.Image = "rbxassetid://16709968093"
+        Circle.Image = "rbxassetid://1434633144"
         Circle.ImageColor3 = Color3.fromRGB(255, 255, 255)
         Circle.ImageTransparency = 0.7
         Circle.Visible = false
@@ -163,7 +163,7 @@ do
             ThunderImageUI.BorderSizePixel = 0
             ThunderImageUI.Position = UDim2.new(0.0, 0, 0.0, 0)
             ThunderImageUI.Size = UDim2.new(0, 50, 0, 50)
-            ThunderImageUI.Image = "http://www.roblox.com/asset/?id=13717478897"
+            ThunderImageUI.Image = "http://www.roblox.com/asset/?id=16709968093"
     
     _G.Logo = 14103696428
     _G.Logo1 = 13717478897
